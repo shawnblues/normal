@@ -1,27 +1,46 @@
 # Normal模板使用介绍
-## 简介
-本模板没有太多复杂功能，因此命名为 Normal。
-由于本人不会代码，因此部分模板的汇总功能是来自集市上已有的模板，我把它们重新调整了一下以适合我们日常使用的场景。
+## 1.日计划与周总结模板
+“日计划” 是和 “周计划” 联动的。即启用日计划模板后自己的每日安排记录上，周总结模板会自动同步每日安排，这样就起到了一个“总结”的作用。
 
-## 简单的使用介绍
-### 一、周计划、日安排和周总结
-可以先创建一个笔记命名为周计划表，表里填上自己的一周安排。
-![](https://github.com/shwnblues/pic/blob/main/%E5%91%A8%E8%AE%A1%E5%88%92.png)
-之后以日期命名每日安排
-![](https://github.com/shwnblues/pic/blob/main/%E6%97%A5%E8%AE%A1%E5%88%92.png)
-每日计划中填写的事项会自动在周计划表中显示
-![](https://github.com/shwnblues/pic/blob/main/%E5%91%A8%E6%80%BB%E7%BB%93.png)
-### 二、日常daily note
-这个模板是日安排模板的简化版本。
-![](https://github.com/shwnblues/pic/blob/main/dailynote.png)
-### 三、四象限
-将待办事项按轻重缓急分类。
-![](https://github.com/shwnblues/pic/blob/main/%E5%9B%9B%E8%B1%A1%E9%99%90.png)
-### 四、分栏
-可快速创建两三四栏页面
-![](https://github.com/shwnblues/pic/blob/main/%E5%88%86%E6%A0%8F.png)
-### 五、电影书籍观后感
-以电影名称命名笔记，简单记录读过的书看过的电影。
-![](https://github.com/shwnblues/pic/blob/main/%E8%AF%BB%E5%90%8E%E6%84%9F.png)
-### 六、其他模板
-其他模板各位就自行体验吧~
+
+![日计划][2]
+![周总结][3]
+
+
+## 2.周计划
+这个跟日计划周总结是配合使用的。每周伊始，只需在笔记中加载一下“周计划”模板即可创建一个周一到周日的待办事项列表，之后以日期命名创建日计划，到周日时，运用周总结模板总结这一周的事项。
+
+![周计划][4]
+
+## 3.daily note
+这个模板是我最开始使用的，不能与周总结联动，适合日常简单记录。无论是 “日计划” 还是 “daily note”，都附带了随机复习功能，方便我们回顾以前写的笔记。
+
+![][5]
+
+## 4.四象限
+所谓“四象限”，是把事项按照轻重缓急来分类，因为我有一个名为 “项目” 的笔记，因此正好用四象限合理安排。建议使用这个模板时只记录一些较大的事项，例如工作项目、文章发布、视频制作、摄影安排等等。日常生活和工作中的一些小事则可以写在 “日计划” 中，例如项目中的某一安排、理发、下班聚餐等。
+
+另外还加了一个列出未完成项目的功能，目前只能列出所有笔记中的待办事项，而不能单独指定某个笔记。
+
+![四象限][6]
+
+## 5.读/观后感
+这其实只是个简单的分栏而已，标题就是书名/电影名。
+![请输入图片描述][7]
+
+## 6.其他模板
+由于是中文命名的，也不难看出所有每个模板是什么用法，可以自行尝试一下。
+
+
+
+倘若你也想订阅使用思源笔记，欢迎使用我的订阅码：**y4b3RRU**。订阅后使用可增加7天订阅时长和500M云储存空间。
+
+  [1]: https://pic.somepic.cn/img/%E6%A8%A1%E6%9D%BF%E6%B1%87%E6%80%BB.png
+  [2]: https://pic.somepic.cn/img/%E6%97%A5%E8%AE%A1%E5%88%92.png
+  [3]: https://pic.somepic.cn/img/%E5%91%A8%E6%80%BB%E7%BB%93.png
+  [4]: https://pic.somepic.cn/img/%E5%91%A8%E8%AE%A1%E5%88%92.png
+  [5]: https://pic.somepic.cn/img/dailynote.png
+  [6]: https://pic.somepic.cn/img/%E5%9B%9B%E8%B1%A1%E9%99%90.png
+  [7]: https://pic.somepic.cn/img/%E9%98%85%E8%AF%BB.png
+  [8]: https://github.com/shawnblues/normal
+  [9]: https://ifblog.lanzouy.com/i1SyGxpqp1a
