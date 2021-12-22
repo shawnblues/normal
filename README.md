@@ -33,7 +33,7 @@
 
 
 
-倘若你也想订阅使用思源笔记，欢迎使用我的订阅码：**y4b3RRU**。订阅后使用可增加7天订阅时长和500M云储存空间。
+
 
   [1]: https://pic.somepic.cn/img/%E6%A8%A1%E6%9D%BF%E6%B1%87%E6%80%BB.png
   [2]: https://pic.somepic.cn/img/%E6%97%A5%E8%AE%A1%E5%88%92.png
