@@ -27,11 +27,18 @@
 ![四象限][6]
 
 ## 4.读/观后感
+
 可以新建一个汇总笔记，然后使用汇总模板，子笔记就是书籍和电影的名字
+
 ![请输入图片描述][7]
 ![][10]
 
-## 5.其他模板
+## 4. 日记模板
+
+![日记模板][5]
+
+## 其他模板
+
 由于是中文命名的，也不难看出所有每个模板是什么用法，可以自行尝试一下。
 
 
@@ -39,25 +46,22 @@
 
 
   [1]: https://pic.somepic.cn/img/%E6%A8%A1%E6%9D%BF%E6%B1%87%E6%80%BB.png
-  [2]: https://github.com/shawnblues/normal/blob/475df4d30ce7a184f4d95ff5106758fc1694f894/preview.png
-  [3]: https://pic.somepic.cn/img/%E5%91%A8%E6%80%BB%E7%BB%93.png
-  [4]: https://pic.somepic.cn/img/%E5%91%A8%E8%AE%A1%E5%88%92.png
-  [5]: https://pic.somepic.cn/img/dailynote.png
-  [6]: https://pic.somepic.cn/img/%E5%9B%9B%E8%B1%A1%E9%99%90.png
-  [7]: https://github.com/shawnblues/pic/blob/main/%E7%94%B5%E5%BD%B1%E6%B1%87%E6%80%BB.png
+  [2]: preview.png
+  [3]: assets/周总结.png
+  [4]: assets/周计划.png
+  [5]: assets/dailynote.png
+  [6]: assets/四象限.png
+  [7]: assets/电影汇总.png
   [8]: https://github.com/shawnblues/normal
   [9]: https://ifblog.lanzouy.com/i1SyGxpqp1a
-  [10]:https://github.com/shawnblues/pic/blob/main/%E7%94%B5%E5%BD%B1.png
+  [10]:assets/电影.png
 
 # CHANGELOG
 
-## v0.2.0 Bug fix
+## v0.1.0...v1.0.0 现代化改造
 
-修复旧有的一些 bug
-
-## v0.1.0 现代化改造
-
-根据新的集市规范进行适应性移植。
+- 根据新的集市规范进行适应性移植
+- 修复旧有的一些 bug
 
 ## v0.0.4
 
