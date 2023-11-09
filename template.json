@@ -2,5 +2,19 @@
     "name": "Normal",
     "author": "shawnblues",
     "url": "https://github.com/shawnblues/normal",
-    "version": "0.0.4"
+    "version": "1.0.0",
+    "displayName": {
+        "default": "Normal Templates",
+        "zh_CN": "Normal 模板"
+    },
+    "description": {
+        "default": "Normal Templates",
+        "zh_CN": "经典的 Normal 模板"
+    },
+    "readme": {
+        "default": "README.md",
+        "zh_CN": "README.md"
+    },
+    "funding": {
+    }
 }
