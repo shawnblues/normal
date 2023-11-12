@@ -1,8 +1,8 @@
 {
     "name": "Normal",
     "author": "shawnblues",
-    "url": "https://github.com/shawnblues/normal",
-    "version": "1.0.0",
+    "url": "https://github.com/siyuan-community/template-normal",
+    "version": "1.1.0",
     "displayName": {
         "default": "Normal Templates",
         "zh_CN": "Normal 模板"
@@ -14,7 +14,5 @@
     "readme": {
         "default": "README.md",
         "zh_CN": "README.md"
-    },
-    "funding": {
     }
 }
